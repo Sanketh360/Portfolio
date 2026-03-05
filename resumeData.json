@@ -1,0 +1,144 @@
+{
+  "personalInfo": {
+    "name": "SANKETH K KOTTARY",
+    "title": "Aspiring Software Engineer",
+    "email": "sankethkottary3519@gmail.com",
+    "phone": "+91-8431370823",
+    "linkedin": "https://www.linkedin.com/in/sanketh-k-kottary-a753bb259/",
+    "github": "https://github.com/Sanketh360",
+    "summary": "Aspiring Software Engineer focused on backend development and AI-driven systems, with experience in Java, SQL, and Spring Boot. Built RESTful APIs and database-integrated platforms, including a Top 5 national-level hackathon finalist project. Seeking to contribute to product-focused teams building reliable, performance-oriented software systems."
+  },
+  "skills": {
+    "Languages": [
+      "JAVA",
+      "SQL",
+      "C",
+      "Core Python",
+      "HTML",
+      "CSS"
+    ],
+    "Frameworks": [
+      "Flutter",
+      "Spring Boot",
+      "Spring MVC"
+    ],
+    "Database": [
+      "MySQL",
+      "Firebase"
+    ],
+    "Core Concepts": [
+      "Data Structures & Algorithms",
+      "Object-Oriented Programming",
+      "SDLC"
+    ],
+    "Tools & Platforms": [
+      "GitHub",
+      "Docker",
+      "Power BI",
+      "Postman",
+      "IntelliJ IDEA",
+      "Bootstrap",
+      "Android Studio"
+    ]
+  },
+  "experience": [
+    {
+      "company": "MindMatrix",
+      "role": "Android App Development Using GenAI Intern",
+      "duration": "January 2026 – May 2026",
+      "location": "Remote",
+      "responsibilities": [
+        "Developing 2+ Android application modules using Kotlin and Android Studio with modular architecture.",
+        "Contributing across 3+ phases of the development life-cycle including planning, implementation, testing, and review.",
+        "Gained hands-on experience with GitHub for version control, collaboration, and project management."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "CANARA ENGINEERING COLLEGE",
+      "degree": "B.E. in Computer Science and Business Systems",
+      "duration": "2022 – Present",
+      "score": "CGPA: 9.1"
+    },
+    {
+      "institution": "CANARA Pre-University College",
+      "degree": "11th - 12th",
+      "duration": "2020 – 2022",
+      "score": "Percentage: 89.7%"
+    }
+  ],
+  "projects": [
+    {
+      "name": "CHATUR – Rural Empowerment Platform",
+      "context": "App Development, Web Scraping, RAG",
+      "techStack": [
+        "Python",
+        "Flutter",
+        "Firebase",
+        "Selenium",
+        "BeautifulSoup",
+        "Hugging Face"
+      ],
+      "link": "https://github.com/Sanketh360",
+      "points": [
+        "Extracted and structured 300+ government scheme records across 12+ categories using Selenium and BeautifulSoup.",
+        "Integrated a multilingual RAG-based AI pipeline improving contextual response relevance for 50+ user queries.",
+        "Built a digital marketplace module supporting 50+ product listings with real-time synchronization for users.",
+        "Configured Firebase backend services handling authentication, job postings, and real-time updates for 100+ records."
+      ]
+    },
+    {
+      "name": "TickIt – Task Management Application",
+      "context": "Spring Boot Web Application",
+      "techStack": [
+        "Java",
+        "Spring Boot",
+        "REST API",
+        "JPA",
+        "MySQL",
+        "Thymeleaf",
+        "Bootstrap"
+      ],
+      "link": "https://github.com/Sanketh360",
+      "points": [
+        "Architected a layered Controller–Service–Repository structure across 5+ service components using Spring Boot.",
+        "Designed and exposed 3+ RESTful endpoints with role-based authentication for secure task operations.",
+        "Managed 500+ task records through optimized JPA-based persistence with relational MySQL schema design.",
+        "Reduced average API response time by 10% through query optimization and database indexing strategies."
+      ]
+    },
+    {
+      "name": "Group TalkPoint",
+      "context": "Java Desktop Software",
+      "techStack": [
+        "Java",
+        "Java Swing",
+        "AWT",
+        "Sockets"
+      ],
+      "link": "https://github.com/Sanketh360",
+      "points": [
+        "Engineered a client-server chat system using Java Sockets supporting 20+ concurrent users.",
+        "Implemented multi-threaded architecture managing 20+ parallel connections with synchronized execution.",
+        "Applied thread synchronization mechanisms reducing message conflicts across concurrent sessions.",
+        "Increased message delivery efficiency by 5% through buffered I/O optimization and improved thread scheduling."
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Salesforce Agentblazer Innovator 2026",
+      "issuer": "Salesforce Trailhead",
+      "details": "Specialized in Agentic AI concepts and created an AI-powered service agent using Salesforce Agentforce to automate customer query resolution and business workflows."
+    },
+    {
+      "name": "Google Cybersecurity Professional Certificate",
+      "issuer": "Google",
+      "details": "Gained foundational knowledge in cybersecurity principles, network security, threat detection, risk assessment, and industry-standard security practices."
+    }
+  ],
+  "achievements": [
+    "Secured a Top 5 Finalist position at a National-Level Hackathon (R.V. College, Bangalore, 2024), earning a sponsored Generative AI workshop from Intel India."
+  ]
+}
