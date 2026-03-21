@@ -6,7 +6,7 @@
     "phone": "+91-8431370823",
     "linkedin": "https://www.linkedin.com/in/sanketh-k-kottary-a753bb259/",
     "github": "https://github.com/Sanketh360",
-    "summary": "Aspiring Software Engineer focused on backend development and AI-driven systems, with experience in Java, SQL, and Spring Boot. Built RESTful APIs and database-integrated platforms, including a Top 5 national-level hackathon finalist project. Seeking to contribute to product-focused teams building reliable, performance-oriented software systems."
+    "summary": "Aspiring Software Engineer focused on backend development and cloud technologies, with experience in Java, SQL, Spring Boot, and AWS. Built RESTful APIs and database-integrated platforms, including a Top 5 national-levelhackathon finalist project. Seeking to contribute to teams building reliable, high-performance software systems."
   },
   "skills": {
     "Languages": [
@@ -26,6 +26,19 @@
       "MySQL",
       "Firebase"
     ],
+     "Cloud & DevOps": [
+      "AWS (EC2, VPC, S3, IAM, RDS)",
+      "Git",
+      "GitHub Actions",
+      "Docker",
+       "CI/CD"
+    ],
+
+
+
+
+
+    
     "Core Concepts": [
       "Data Structures & Algorithms",
       "Object-Oriented Programming",
@@ -33,7 +46,7 @@
     ],
     "Tools & Platforms": [
       "GitHub",
-      "Docker",
+      "VS Code",
       "Power BI",
       "Postman",
       "IntelliJ IDEA",
@@ -80,7 +93,7 @@
         "BeautifulSoup",
         "Hugging Face"
       ],
-      "link": "https://github.com/Sanketh360",
+      "link": "https://github.com/Sanketh360/CHATUR",
       "points": [
         "Extracted and structured 300+ government scheme records across 12+ categories using Selenium and BeautifulSoup.",
         "Integrated a multilingual RAG-based AI pipeline improving contextual response relevance for 50+ user queries.",
@@ -100,7 +113,7 @@
         "Thymeleaf",
         "Bootstrap"
       ],
-      "link": "https://github.com/Sanketh360",
+      "link": "https://github.com/Sanketh360/TickIt",
       "points": [
         "Architected a layered Controller–Service–Repository structure across 5+ service components using Spring Boot.",
         "Designed and exposed 3+ RESTful endpoints with role-based authentication for secure task operations.",
@@ -109,20 +122,23 @@
       ]
     },
     {
-      "name": "Group TalkPoint",
-      "context": "Java Desktop Software",
+      "name": "AWS Portfolio Website CI/CD Deployment",
+      "context": "Cloud & DevOps Project",
       "techStack": [
-        "Java",
-        "Java Swing",
-        "AWT",
-        "Sockets"
+        "AWS S3",
+        "IAM", 
+        "GitHub Actions", 
+        "CI/CD", 
+        "HTML", 
+        "CSS"
+       
       ],
-      "link": "https://github.com/Sanketh360",
+      "link": "https://github.com/Sanketh360/AWS-Portfolio-CICD",
       "points": [
-        "Engineered a client-server chat system using Java Sockets supporting 20+ concurrent users.",
-        "Implemented multi-threaded architecture managing 20+ parallel connections with synchronized execution.",
-        "Applied thread synchronization mechanisms reducing message conflicts across concurrent sessions.",
-        "Increased message delivery efficiency by 5% through buffered I/O optimization and improved thread scheduling."
+        "Deployed a static portfolio website using Amazon S3 static hosting with public access for 1+ production instance.",
+        "Built a CI/CD pipeline using GitHub Actions deploying updates within 10–15 seconds after code push to main .",
+        "Configured AWS IAM users, access keys, and bucket policies with 2+ permission rules for automated deployment",
+        "Automated file synchronization using GitHub Actions and AWS S3 Sync for deployment of 5+ static website files."
       ]
     }
   ],
@@ -141,4 +157,5 @@
   "achievements": [
     "Secured a Top 5 Finalist position at a National-Level Hackathon (R.V. College, Bangalore, 2024), earning a sponsored Generative AI workshop from Intel India."
   ]
+
 }
